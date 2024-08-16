@@ -7,7 +7,6 @@ Para evitar correos electrónicos rebotados, nos gustaría que envíe sus result
 * Una carpeta "backend" que contiene la prueba técnica de backend
 * Una carpeta "frontend" que contiene la prueba técnica del frontend
 * Agregue el archivo README en las dos carpetas de codificación para explicar cómo ejecutar su código.
-* No pida a sus amigos que resuelvan el desafío por usted. Deberá explicar sus elecciones en persona.
 
 ## Requerimientos 
 * Su código debe compilarse y ejecutarse en un solo paso.
